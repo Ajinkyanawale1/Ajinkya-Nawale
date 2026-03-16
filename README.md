@@ -1,6 +1,3 @@
-## 📊 GitHub Stats
-![Ajinkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaNawale1&show_icons=true&theme=radical)
-
 # Hi, I'm Ajinkya Nawale 👋
 
 🎓 **Artificial Intelligence & Data Science Graduate**
@@ -40,3 +37,12 @@ Data analysis to understand employee trends and workforce insights.
 ---
 
 ⭐ Always interested in learning new technologies and working on real-world data problems.
+
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaNawale&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjinkyaNawale&theme=radical)
+
+## 📊 GitHub Stats
+![Ajinkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaNawale1&show_icons=true&theme=radical)
