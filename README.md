@@ -1,3 +1,6 @@
+## 📊 GitHub Stats
+![Ajinkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaNawale&show_icons=true&theme=radical)
+
 # Hi, I'm Ajinkya Nawale 👋
 
 🎓 **Artificial Intelligence & Data Science Graduate**
